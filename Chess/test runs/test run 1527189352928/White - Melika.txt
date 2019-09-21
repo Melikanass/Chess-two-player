@@ -1,0 +1,19 @@
+f2 to f4
+g2 to g4
+f1 to h3
+g1 to f3
+d8 to b6
+a2 to a3
+@9 to B6
+E1 to F1
+@9 to F1
+F1 to E1
+E1 to G1
+D2 to D3
+G4 to F5
+F5 to F6
+@9 to F6
+F6 to E7
+H3 to G2
+E7 to E8
+Queen

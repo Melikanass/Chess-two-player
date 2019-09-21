@@ -1,0 +1,1 @@
+Chess text view for Melika

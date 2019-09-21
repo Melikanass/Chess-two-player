@@ -1,0 +1,11 @@
+f2 to f4
+g2 to g4
+f1 to h3
+g1 to f3
+d8 to b6
+a2 to a3
+C5 to C1
+B2 to B3
+E1 to G1
+E1 to G1
+E1 to G1

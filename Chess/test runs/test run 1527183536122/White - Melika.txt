@@ -1,0 +1,13 @@
+d7 to d5
+b7 to b5
+b2 to b4
+c2 to c4
+b4 to b5
+b5 to b6
+b6 to b7
+B7 to B8
+Rook
+@9 to E2
+E2 to E3
+D1 to H5
+H5 to G6

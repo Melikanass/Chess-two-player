@@ -1,0 +1,13 @@
+b7 to b5
+b5 to c4
+b1 to c6
+b8 to c6
+f7 to f6
+@9 to E7
+E7 to E5
+@9 to E2
+H7 to H6
+A7 to A6
+G7 to G6
+@9 to E8
+E8 to E7

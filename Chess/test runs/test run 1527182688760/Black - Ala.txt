@@ -1,0 +1,12 @@
+c7 to c5
+F6 to F4
+F7 to F5
+E7 to E6
+D1 to G5
+D1 to H5
+D8 to H2
+A7 to A6
+G8 to F6
+G7 to G6
+F5 to G6
+G6 to F5

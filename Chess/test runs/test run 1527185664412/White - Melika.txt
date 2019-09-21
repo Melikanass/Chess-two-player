@@ -1,0 +1,9 @@
+d7 to d5
+b7 to b5
+b2 to b4
+c2 to c4
+b4 to b5
+b5 to b6
+b6 to b7
+B7 to B8
+queen

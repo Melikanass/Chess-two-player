@@ -1,0 +1,7 @@
+b7 to b5
+b5 to c4
+b1 to c6
+b8 to c6
+f7 to f6
+@9 to B7
+E7 to E5

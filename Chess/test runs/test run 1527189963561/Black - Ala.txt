@@ -1,0 +1,6 @@
+c7 to c5
+g8 to f6
+g7 to g5
+f8 to h6
+d8 to b6
+C5 to C4
